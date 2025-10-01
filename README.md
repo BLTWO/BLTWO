@@ -27,7 +27,7 @@ Currently a student at the University of Toronto.
 ---
 
 ## 🌐 Links
-- 💼 **LinkedIn:** [Brandon Wong](https://www.linkedin.com/in/brandonwong789/)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/brandonwong789/  
 - 📧 **Email:** brandonwong789@gmail.com
 
 ---
