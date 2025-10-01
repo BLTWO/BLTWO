@@ -5,13 +5,13 @@ Currently a student at the University of Toronto.
 ---
 
 ## 📚 Currently Learning
-- **CSC347H5 • Introduction to Information Security**
+- **CSC347H5 • Introduction to Information Security**  
   An investigation of many aspects of modern information security. Major topics cover: Techniques to identify and avoid common software development flaws which leave software vulnerable to crackers. Utilizing modern operating systems security features to deploy software in a protected environment. Common threats to networks and networked computers and tools to deal with them. Cryptography and the role it plays in software development, systems security and network security.
 
-- **CSC369H5 • Operating Systems**
+- **CSC369H5 • Operating Systems**  
   Principles of operating systems. The operating system as a control program and as a resource allocator. Core topics: processes and threads, concurrency (synchronization, mutual exclusion, deadlock), processor, scheduling, memory management, file systems, and protection.
 
-- **CSC373H5 • Algorithm Design and Analysis**
+- **CSC373H5 • Algorithm Design and Analysis**  
   Standard algorithm design techniques: divide-and-conquer, greedy strategies, dynamic programming, linear programming, randomization, network flows, approximation algorithms and others (if time permits). Students will be expected to show good design principles and adequate skills at reasoning about the correctness and complexity of algorithms.
 
 ---
