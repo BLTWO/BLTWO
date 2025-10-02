@@ -4,7 +4,7 @@ Currently a student at the University of Toronto.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Studying
 - **CSC347H5 • Introduction to Information Security**  
   An investigation of many aspects of modern information security. Major topics cover: Techniques to identify and avoid common software development flaws which leave software vulnerable to crackers. Utilizing modern operating systems security features to deploy software in a protected environment. Common threats to networks and networked computers and tools to deal with them. Cryptography and the role it plays in software development, systems security and network security.
 
