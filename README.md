@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brandon (Lok-Tim) Wong
+# 👋 Hi, I'm Brandon
 
 Currently a student at the University of Toronto.
 
