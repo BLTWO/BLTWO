@@ -11,6 +11,7 @@ Currently a student at the University of Toronto.
 - Unix/Linux Shell and Bash  
 - Web Development with Angular and Tailwind
 - Data Visualization and OOP Principles
+- Network Security
 
 ---
 
