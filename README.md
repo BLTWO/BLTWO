@@ -4,24 +4,6 @@ Currently a student at the University of Toronto.
 
 ---
 
-## 📚 Currently Studying
-- **CSC347H5 • Introduction to Information Security**  
-  An investigation of many aspects of modern information security. Major topics cover: Techniques to identify and avoid common software development flaws which leave software vulnerable to crackers. Utilizing modern operating systems security features to deploy software in a protected environment. Common threats to networks and networked computers and tools to deal with them. Cryptography and the role it plays in software development, systems security and network security.
-
-- **CSC369H5 • Operating Systems**  
-  Principles of operating systems. The operating system as a control program and as a resource allocator. Core topics: processes and threads, concurrency (synchronization, mutual exclusion, deadlock), processor, scheduling, memory management, file systems, and protection.
-
-- **CSC373H5 • Algorithm Design and Analysis**  
-  Standard algorithm design techniques: divide-and-conquer, greedy strategies, dynamic programming, linear programming, randomization, network flows, approximation algorithms and others (if time permits). Students will be expected to show good design principles and adequate skills at reasoning about the correctness and complexity of algorithms.
-
-- **CSC343H5 • Introduction to Databases**  
-  Introduction to database management systems. The relational data model. Relational algebra. Querying and updating databases: the query language SQL. Application programming with SQL. Integrity constraints, normal forms, and database design. Elements of database system technology: query processing, transaction management.
-
-- **CSC311H5 • Introduction to Machine Learning**  
-  An introduction to methods for automated learning of relationships on the basis of empirical data. Classification and regression using nearest neighbour methods, decision trees, linear models, and neural networks. Clustering algorithms. Problems of overfitting and of assessing accuracy.
-
----
-
 ## 💬 Ask Me About
 - Python, C, and Java Projects  
 - Django, REST, and Auth
